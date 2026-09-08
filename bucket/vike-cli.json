@@ -1,5 +1,5 @@
 {
-    "version": "0.1.19",
+    "version": "0.1.20",
     "description": "vike trading core — the command-line surface: backtest against a data service, drive a live node, read settings and credentials, and serve the agent-facing MCP tools.",
     "homepage": "https://github.com/vike-io/vike-trader",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vike-io/vike-trader/releases/download/v0.1.19/vike-cli.exe",
-            "hash": "f2c0c978ecebe63ce59a2e71935463347b2c6fdec7dafe49deed912798c4fb39"
+            "url": "https://github.com/vike-io/vike-trader/releases/download/v0.1.20/vike-cli.exe",
+            "hash": "7850cc497a7430b8d04542a7b3be76e6d0b2932ec3661e46f82b8fac63e92fb9"
         }
     },
     "bin": "vike-cli.exe",
